@@ -1,5 +1,5 @@
 import './App.css'
-import { BreadcrumbsExampleComponent } from './components/examples/breadcrumbs-example'
+import { BreadcrumbsExampleComponent } from './components/navigation-components/breadcrumbs/breadcrumbs-example'
 
 function App() {
 

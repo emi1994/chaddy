@@ -1,6 +1,6 @@
 'use client'
+import { Breadcrumbs } from "@/components"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Breadcrumbs } from "../components-navigation-breadcrumbs"
 
 export function BreadcrumbsExampleComponent() {
   const breadcrumbItems = [

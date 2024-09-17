@@ -48,7 +48,7 @@ export { Flexbox } from './components-useful-flexbox'
 // export { TableHead } from './components/Useful/TableHead'
 
 // Navigation components
-export { Breadcrumbs } from './components-navigation-breadcrumbs'
+export { Breadcrumbs } from './navigation-components/breadcrumbs/components-navigation-breadcrumbs'
 // export { Navigation } from './components/Navigation/Navigation'
 // export { Pagination } from './components/Navigation/Pagination'
 // export { Steps } from './components/Navigation/Steps'
