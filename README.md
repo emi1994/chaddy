@@ -1,3 +1,17 @@
+# Chaddy - React component library
+The main idea behind chaddy (dont mind the name) its to have a small components library to be consumed for react clients and make personal projects with a faster development.
+
+# How to add a new component
+Components should be added into a folder based on its purpose, for example `link` will be in `navigation-components` and its going to follow a naming convention of components as follow:
+
+These files will live in `navation-components/link`
+<br>
+Link component: `purpose-category-name` ----> `component-navigation-link`
+<br>
+Link example: `exampe-name` ----> `example-link`
+
+All folders <strong>MUST</strong> have component and example files, once we have the necessary files we can import our new component into `src\components\index.tsx` 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
