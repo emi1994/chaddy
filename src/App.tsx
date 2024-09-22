@@ -1,11 +1,11 @@
 import './App.css'
-import { BreadcrumbsExampleComponent } from './components/navigation-components/breadcrumbs/breadcrumbs-example'
+import { DividerExample } from './components/structure-components/divider/example-divider'
 
 function App() {
 
   return (
     <>
-    <BreadcrumbsExampleComponent />
+    <DividerExample />
     </>
   )
 }

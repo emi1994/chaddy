@@ -35,14 +35,14 @@ export { Checkbox } from './components-select-checkbox'
 // export { Image } from './components/Additional/Image'
 // export { Toast } from './components/Additional/Toast'
 // export { Avatar } from './components/Additional/Avatar'
-// export { Divider } from './components/Additional/Divider'
 export { ProgressBar } from './components-additional-progress-bar'
 // export { Status } from './components/Additional/Status'
 // export { Tags } from './components/Additional/Tags'
 
-// Useful components
+// Strcuture components
 export { Flexbox } from './components-useful-flexbox'
-// export { Box } from './components/Useful/Box'
+export { Box } from './structure-components/box/components-structure-box'
+export { Divider } from './structure-components/divider/component-structure-divider'
 // export { Grid } from './components/Useful/Grid'
 // export { Table } from './components/Useful/Table'
 // export { TableHead } from './components/Useful/TableHead'
